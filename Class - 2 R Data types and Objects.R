@@ -67,7 +67,7 @@ Mystring
 
 # extending the same array
 mystring1<-c(mystring, "Multinomial","MOnday")
-mystring1 #Shreesh
+mystring1 #Shashank
 
 ?rep
 
