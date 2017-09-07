@@ -240,7 +240,7 @@ flipkartPage <-getPage(page="flipkart",
 
 fb_page<-getPage(page = "facebook", token = accessToken)
 
-post<-getPost(post = fb_page$id[1], n=100, accessToken) #Shreesh
+post<-getPost(post = fb_page$id[1], n=100, accessToken) #Shashank
 
 
 ##################  Writing Data  #########################
